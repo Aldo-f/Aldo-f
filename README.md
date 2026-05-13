@@ -7,7 +7,7 @@ I'm a self-driven software developer with experience in PHP (CodeIgniter), MySQL
 ## 🌍 Background
 
 - Belgian living in Merelbeke-Melle, East Flanders
-- Self-employed developer in bijberoep (side business)
+- Self-employed developer (side business)
 - Passionate about building practical web applications and automation tools
 - Strong focus on user-friendly interfaces and seamless integrations
 
@@ -18,17 +18,21 @@ I'm a self-driven software developer with experience in PHP (CodeIgniter), MySQL
 - 💻 **PHP Web Developer** @ CREAMY CODING – developing web applications and websites with PHP (CodeIgniter 4), MySQL, JavaScript, jQuery, CSS, and Flutter
 - 🔧 **Full-stack Development** – translating client needs into technical solutions, integrating external services like Peppol API
 - 🛠️ **Server Management** – managing servers, domains, and email configurations
-- 🚀 **Project Development** – building personal projects including toolbox applications, AI integrations, and portfolio websites
+- 🚀 **Project Development** – building personal projects including AI tools, automation scripts, and web applications
+- 🤝 **Volunteer Work** – Digihelper at De Krook's Digipunt, helping people with digital skills and questions
 
 ---
 
 ## 🚀 Projects
 
-- **[Toolbox](https://github.com/Aldo-f/Toolbox)** – Open & monetizable toolbox with tool chaining capabilities (quotes, password generator, broken link checker)
-- **[OllamaFreeAPI](https://github.com/Aldo-f/OllamaFreeAPI)** – Integration suite for OllamaFreeAPI with Hermes Agent, including chat application and model discovery
-- **[EmojiToolkit](https://github.com/Aldo-f/EmojiToolkit)** – MVP for emoji copy and search functionality
-- **[Nocturna](https://github.com/Aldo-f/Nocturna)** – AI job scheduler for Raspberry Pi 5 (concept)
-- **[Portfolio v2](https://github.com/Aldo-f/PortfolioV2)** – Personal portfolio website (concept)
+- **[AIdo](https://github.com/Aldo-f/AIdo)** – Intelligent AI CLI with multi-provider support
+- **[thuis](https://github.com/Aldo-f/thuis)** – Thuis downloader
+- **[dl_cloudlibrary_audiobooks](https://github.com/Aldo-f/dl_cloudlibrary_audiobooks)** – Cloud library audiobooks downloader
+- **[P6TourGuide](https://github.com/Aldo-f/P6TourGuide)** – A tour guide for the city Ghent in Belgium
+- **[postcard](https://github.com/Aldo-f/postcard)** – Personal website + newsletter as an alternative to social media
+- **[CloudLibrary](https://github.com/Aldo-f/CloudLibrary)** – Cloud library management
+- **[docker-laravel](https://github.com/Aldo-f/docker-laravel)** – Build a simple Laravel development environment with Docker Compose
+- **[raspbian-recipes](https://github.com/Aldo-f/raspbian-recipes)** – Raspberry Pi networking made easy
 
 ---
 
@@ -55,7 +59,7 @@ Developed websites using WordPress.org and Drupal, focusing on both design and t
 
 | Category          | Tools & Technologies |
 |------------------|----------------------|
-| **Languages**     | PHP, JavaScript, jQuery, Node.js, Python |
+| **Languages**     | PHP, JavaScript, jQuery, Node.js, Python, TypeScript |
 | **Frameworks**    | CodeIgniter 4, Laravel, Drupal, Symfony2, Angular |
 | **Frontend**      | HTML, CSS, Flutter, Tailwind CSS |
 | **Backend**       | MySQL, REST APIs |
