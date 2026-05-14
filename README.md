@@ -100,7 +100,6 @@ Developed websites using WordPress.org and Drupal, focusing on both design and t
 - 🎨 [CodePen](https://codepen.io/aldof)
 - 📱 [Telegram](https://t.me/aldofieuw)
 - 🌐 [Portfolio](https://portfolio.aldof.duckdns.org)
-- 📧 Email: aldo.fieuw@gmail.com
 
 ---
 
